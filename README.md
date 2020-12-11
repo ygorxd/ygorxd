@@ -1,5 +1,5 @@
 <h2> Olá sou o Ygor <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/637851823654305794/786904399918006282/a_aa7f5dda86dba43d8e989a770c2c9f2f.gif" width="500"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/637851823654305794/786753618023284796/fdsasn.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
