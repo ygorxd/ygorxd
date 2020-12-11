@@ -11,6 +11,7 @@
 <h3>Tecnologias</h3>
 
 - 💻 &nbsp; Python | C# | Node js | Express
+- 💻 &nbsp; NET. | PHP | JAVA | C/C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp;PyCharm | Visual Studio code | Eclipse | Git | Sublime Text 3 | Visual Studio 2019 | Game Maker Studio 2
