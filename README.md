@@ -1,4 +1,4 @@
-<h2> Olá sou o Pedro | se prefirir me chame de Spray <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Olá sou o Ygor <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/786992619104239646/786992701886824498/Gif_Gatinho_Manhoso.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
