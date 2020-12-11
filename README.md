@@ -24,3 +24,6 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprayydev&text_color=daf7dc&bg_color=151515)](https://Bit.ly/Spraymusic)
+
+<a href="https://github.com/Dropout1337?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropout1337&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
