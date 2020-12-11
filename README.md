@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Programador e editor
-- 🤔 &nbsp; Desenvolvendo o <a href="https://Bit.ly/Spraymusic">SprayMusic</a>
-- 🎓 &nbsp; Estudando MySQL,Python e C#
-- ✍️ &nbsp; Gosto de desenhar animes.
+- 🔭 &nbsp; Programador
+- 🤔 &nbsp; Desenvolvendo tool's
+- 🎓 &nbsp; Estudando sempre.
+- ✍️ &nbsp; I'm superior.
 
 <h3>Tecnologias</h3>
 
