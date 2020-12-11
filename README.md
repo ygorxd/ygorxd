@@ -15,7 +15,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp;PyCharm | Visual Studio code | Eclipse | Git | Sublime Text 3 | Visual Studio 2019 | Game Maker Studio 2
-- 🖥 &nbsp;Vegas pro 17.0 | 
+- 🖥 &nbsp;JetBrains 
 
 <br>
 
